@@ -35,12 +35,3 @@ Before getting started, ensure you have the following installed on your machine 
    ```shell
     npm start or yarn start
     ```
-
-## Contribution
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repo
-2. Create a new branch (git checkout -b feature/my-feature)
-3. Commit your changes (git commit -am 'Add my feature')
-4. Push the branch (git push origin feature/my-feature)
-5. Create a Pull Request
