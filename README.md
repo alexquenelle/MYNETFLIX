@@ -18,12 +18,12 @@ Before getting started, ensure you have the following installed on your machine 
 1. Clone the repo:
 
    ```shell
-   git clone https://github.com/your-username/netflix-clone.git
+   https://github.com/alexquenelle/MYNETFLIX.git
    ```
 2. Navigate to the project directory:
     
    ```shell
-   cd netflix-clone
+   cd MYNETFLIX
    ```
 3. Install dependencies:
     
